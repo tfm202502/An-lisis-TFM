@@ -37,7 +37,7 @@ install.packages(c(
   "data.table", "dplyr", "tidyr", "ggplot2", "speedglm", "broom", "glmnet",
   "car", "pROC", "future", "openxlsx", "DescTools", "ResourceSelection"
 ))
-
+```
 Los scripts se encuentran en la carpeta scripts y se recomienda ejecutarlos en el siguiente orden:
 parsimona.R
 comparaciónmodelos.R
