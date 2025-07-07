@@ -38,6 +38,7 @@ install.packages(c(
 ))
 ```
 Los scripts se encuentran en la carpeta scripts y se recomienda ejecutarlos en el siguiente orden:
+
 parsimona.R
 
 comparaciónmodelos.R
