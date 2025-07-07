@@ -4,10 +4,8 @@ Este repositorio contiene los scripts en R desarrollados para el proyecto del tr
 *Analizar los tipos de psicofármacos prescritos y su relación con variables sociodemográficas y diagnósticos clínicos generales en distintos contextos temporales asociados a la pandemia de COVID-19.*
 
 ## Estructura del repositorio
-scripts/ # Scripts en R utilizados en el análisis
-data/ # [No se incluyen por motivos éticos]
-README.md # Este archivo con la descripción del proyecto
-
+scripts/ Scripts en R utilizados en el análisis
+README.md 
 
 ## Requisitos
 
