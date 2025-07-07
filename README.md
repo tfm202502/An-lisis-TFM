@@ -5,6 +5,7 @@ Este repositorio contiene los scripts en R desarrollados para el proyecto del tr
 
 ## Estructura del repositorio
 scripts/ Scripts en R utilizados en el análisis
+
 README.md 
 
 ## Requisitos
@@ -38,10 +39,15 @@ install.packages(c(
 ```
 Los scripts se encuentran en la carpeta scripts y se recomienda ejecutarlos en el siguiente orden:
 parsimona.R
+
 comparaciónmodelos.R
+
 VIF.R
+
 analisisprecovid.R
+
 analisispostcovid.R
+
 interacciones.R
 
 
